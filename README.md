@@ -38,8 +38,8 @@
 
 เมื่อ Import จะมีสัญญาณโชว์ทั้งหมด 4 แบบและสามารถกดปุ่มที่เหลือได้ ปุ่ม ClearAll เมื่อกดแล้วจะล้างไฟล์ที่ถูก Import เข้ามา ปุ่ม Export เมื่อกดแล้วจะทำการ Download ไฟล์ที่ถูกแปลงด้วย FFT แล้ว
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/85865681/202139504-e132601d-a2a0-453d-81da-e0004570c7bb.png" width="50%"/>
-  <img src="https://user-images.githubusercontent.com/85865681/202140578-f33b188c-ca31-447a-9c01-c31d3f5f7f64.png" width="50%"/>
+  <img src="https://user-images.githubusercontent.com/85865681/202139504-e132601d-a2a0-453d-81da-e0004570c7bb.png" width="45%"/>
+  <img src="https://user-images.githubusercontent.com/85865681/202140578-f33b188c-ca31-447a-9c01-c31d3f5f7f64.png" width="45%"/>
 </p>
 
 # Future Play Pause Stop Volume
